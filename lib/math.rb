@@ -17,10 +17,14 @@ def division(num1, num2)
 puts quotient
 quotient
 end
-division()
-def multiplication(num1, num2)
+division(50,2)
 
+def multiplication(num1, num2)
+  product = num1 * num2
+  puts product
+  product
 end
+multiplication()
 
 def modulo(num1, num2)
 
