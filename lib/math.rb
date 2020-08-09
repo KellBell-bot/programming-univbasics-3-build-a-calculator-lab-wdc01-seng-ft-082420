@@ -31,7 +31,7 @@ def modulo(num1, num2)
   puts remainder
   remainder
 end
-modulo()
+modulo(34,5)
 
 def square_root(num)
   square_root= Math.sqrt(num)
