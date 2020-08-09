@@ -6,7 +6,9 @@ end
 addition(5,4)
 
 def subtraction(num1, num2)
-  difference =
+  difference = num1 - num2
+  puts difference
+  difference
 
 end
 
