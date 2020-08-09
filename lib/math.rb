@@ -13,10 +13,11 @@ end
 subtraction(10,5)
 
 def division(num1, num2)
-  quotient = 
-
+  quotient = num1/num2
+puts quotient
+quotient
 end
-
+division()
 def multiplication(num1, num2)
 
 end
