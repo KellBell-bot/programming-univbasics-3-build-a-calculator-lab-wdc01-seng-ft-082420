@@ -27,6 +27,7 @@ end
 multiplication(4,30)
 
 def modulo(num1, num2)
+  remainder
 
 end
 
